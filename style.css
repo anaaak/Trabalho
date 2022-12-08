@@ -4,3 +4,46 @@ body{
 h1{
 text-align: center; color: #14756C; font-family: sans-serif;
 }
+
+header{
+  background-color: #fce4d4
+}
+
+.titulo{font-size: 100px; color: #99715b; text-align: center;margin-top: -7%}
+
+h1{
+  font-family: inherit; text-align: center; color:white;
+}
+
+p{
+  font-family: monospace; font-size: 30px; color: white; text-align: center;
+}
+
+nav li{
+display: inline-block;
+margin: 0 0 0 380px;
+text-transform: uppercase;
+border: 3px solid black;
+
+}
+nav a:hover{
+  color: #C78c19;
+text-decoration: underline;
+}
+
+.logo{
+width: 80%;
+margin-left: -25%;
+}
+
+.contato{font-family: cursive; background-color: #6D8267; color: white ; font-size: 80px; text-align: center;}
+
+iframe{
+  width: 50%;
+  margin-left: 25%;
+}
+
+img{
+  width: 30%;
+  margin-left: 30%;
+}
